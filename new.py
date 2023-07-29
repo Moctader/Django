@@ -1,2 +1,1 @@
-print('ok')
-# is everything is ok
+#all about nothing
